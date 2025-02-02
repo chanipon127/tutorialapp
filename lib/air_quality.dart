@@ -34,6 +34,7 @@ class _AQIScreenState extends State<AQIScreen> {
       isLoading = true;
     });
 
+    // ignore: unused_local_variable
     String token = "d22c5222ec2f39d15cdab43ec843460620de7364"; // 🔑 ใส่ Token
     String url =
         "https://api.waqi.info/feed/bangkok/?token=d22c5222ec2f39d15cdab43ec843460620de7364";
